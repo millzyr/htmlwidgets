@@ -1,4 +1,4 @@
-Package: htmlwidgets
+Package: htmlwidgetsMZR
 Type: Package
 Title: HTML Widgets for R
 Version: 1.5.3.9000
@@ -27,6 +27,6 @@ Suggests:
     rmarkdown,
     testthat
 Enhances: shiny (>= 1.1)
-URL: https://github.com/ramnathv/htmlwidgets
+URL: https://github.com/millzyr/htmlwidgetsMZR
 BugReports: https://github.com/ramnathv/htmlwidgets/issues
 RoxygenNote: 7.1.1
