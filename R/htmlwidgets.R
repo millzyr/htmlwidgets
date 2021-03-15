@@ -167,7 +167,7 @@ addHook <- function(x, hookName, jsCode, data = NULL) {
   x
 }
 
-
+#' @export
 toHTML <- function(x, standalone = FALSE, knitrOptions = NULL) {
 
   sizeInfo <- resolveSizing(x, x$sizingPolicy, standalone = standalone, knitrOptions = knitrOptions)
